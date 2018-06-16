@@ -6,10 +6,11 @@ using System.Threading.Tasks;
 
 namespace Exercicio_Heranca_PAD
 {
-    class Program
+    class Conta
     {
         static void Main(string[] args)
         {
+            
         }
     }
 }
