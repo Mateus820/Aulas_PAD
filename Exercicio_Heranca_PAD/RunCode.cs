@@ -6,8 +6,13 @@ using System.Threading.Tasks;
 
 namespace Exercicio_Heranca_PAD
 {
-    class ContaCorrente
+    class RunCode
     {
+        public static void Main(string[] args)
+        {
+            Manager manager = new Manager();
 
+            manager.MenuSystem();
+        }
     }
 }

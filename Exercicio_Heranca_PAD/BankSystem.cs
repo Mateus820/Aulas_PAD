@@ -6,11 +6,8 @@ using System.Threading.Tasks;
 
 namespace Exercicio_Heranca_PAD
 {
-    class Conta
+    class BankSystem
     {
-        static void Main(string[] args)
-        {
-            
-        }
+
     }
 }

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Exercicio_Heranca_PAD
 {
-    class ContaPoupanca
+    class BankAccount
     {
 
     }
